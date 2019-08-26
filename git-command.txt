@@ -1,0 +1,19 @@
+- git init - { this command will use first time }
+
+- git status - { It is used to see the files which is created is added orn not}
+
+- git log - { It is used to check the log of the files which your changed or not }
+
+- git add <file-name> - { This will add a particular file which u have specified the name}
+
+- git add . - { This will add a multiple files }
+
+- git commit -m 'Message' - { This will is used to commit the file}
+
+- git checkout <id> - { Go to the previous version of the file }
+
+- git checkout master - { The head will come to the master head.}
+
+- git remote add <any-alias> <gitrepo link> - { to link the profile with github}
+
+- git push swabhav master - { Push all the files }
